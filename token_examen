@@ -1,6 +1,7 @@
 firebaseConfig = {
   apiKey: "AIzaSyCdjvd0SCMXlVkEHYuwOf3HXA6Ib9xYLDE",
   authDomain: "examen-grupo-sol-edu-rafa.firebaseapp.com",
+  databaseURL: "https://examen-grupo-sol-edu-rafa-default-rtdb.europe-west1.firebasedatabase.app",
   projectId: "examen-grupo-sol-edu-rafa",
   storageBucket: "examen-grupo-sol-edu-rafa.appspot.com",
   messagingSenderId: "967353431981",
